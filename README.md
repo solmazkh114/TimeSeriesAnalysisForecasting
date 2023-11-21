@@ -17,5 +17,4 @@ This way of installion will not install all avaialbel models, so one can use the
 Most of codes I learned and worked with in this notebook come from the fantastic Darts' [notebook examples](https://unit8co.github.io/darts/examples/01-multi-time-series-and-covariates.html).
 
 In this notebook, we will explore different ways of loading time series data with Darts and will end it with model training on some real time series data from a large Ecuadorian-based grocery 
-retailer. This is the [link](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview) of this dataset on Kaggle. The whole process on this dataset including extensive
-data analysis and model traning can be find in this [Repo]().
+retailer. This is the [link](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview) of this dataset on Kaggle. The whole process on this dataset including extensive data analysis and model traning can be find in this [Repo](https://github.com/solmazkh114/Sales-Data-Forecasting.git).
